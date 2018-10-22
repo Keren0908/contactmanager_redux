@@ -1,0 +1,1 @@
+Redux version of contactmanager
